@@ -1,0 +1,9 @@
+C:\Projects\SwipeHTML\SwipeHTML\bin\Debug\SwipeHTML.exe.config
+C:\Projects\SwipeHTML\SwipeHTML\bin\Debug\SwipeHTML.exe
+C:\Projects\SwipeHTML\SwipeHTML\bin\Debug\SwipeHTML.pdb
+C:\Projects\SwipeHTML\SwipeHTML\obj\Debug\SwipeHTML.csprojResolveAssemblyReference.cache
+C:\Projects\SwipeHTML\SwipeHTML\obj\Debug\SwipeHTML.Properties.Resources.resources
+C:\Projects\SwipeHTML\SwipeHTML\obj\Debug\SwipeHTML.SwipeHtml.resources
+C:\Projects\SwipeHTML\SwipeHTML\obj\Debug\SwipeHTML.csproj.GenerateResource.Cache
+C:\Projects\SwipeHTML\SwipeHTML\obj\Debug\SwipeHTML.exe
+C:\Projects\SwipeHTML\SwipeHTML\obj\Debug\SwipeHTML.pdb
